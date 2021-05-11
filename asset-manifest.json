@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ed-todo/static/css/main.84720a4a.chunk.css",
+    "main.js": "/ed-todo/static/js/main.04b6d699.chunk.js",
+    "main.js.map": "/ed-todo/static/js/main.04b6d699.chunk.js.map",
+    "runtime-main.js": "/ed-todo/static/js/runtime-main.c49c2343.js",
+    "runtime-main.js.map": "/ed-todo/static/js/runtime-main.c49c2343.js.map",
+    "static/js/2.c0cf948a.chunk.js": "/ed-todo/static/js/2.c0cf948a.chunk.js",
+    "static/js/2.c0cf948a.chunk.js.map": "/ed-todo/static/js/2.c0cf948a.chunk.js.map",
+    "static/js/3.44e28d80.chunk.js": "/ed-todo/static/js/3.44e28d80.chunk.js",
+    "static/js/3.44e28d80.chunk.js.map": "/ed-todo/static/js/3.44e28d80.chunk.js.map",
+    "index.html": "/ed-todo/index.html",
+    "static/css/main.84720a4a.chunk.css.map": "/ed-todo/static/css/main.84720a4a.chunk.css.map",
+    "static/js/2.c0cf948a.chunk.js.LICENSE.txt": "/ed-todo/static/js/2.c0cf948a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c49c2343.js",
+    "static/js/2.c0cf948a.chunk.js",
+    "static/css/main.84720a4a.chunk.css",
+    "static/js/main.04b6d699.chunk.js"
+  ]
+}
